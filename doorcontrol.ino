@@ -2,9 +2,9 @@
 
 const int trigPin = 9;
 const int echoPin = 10;
-const int servoPin = 6;
-const int redLedPin = 2;
-const int blueLedPin = 3;
+const int servoPin = 11;
+const int redLedPin = 6;
+const int blueLedPin = 7;
 
 const long openDistance = 20; // Distance in cm to trigger the door open
 
